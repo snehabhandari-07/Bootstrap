@@ -1,0 +1,11 @@
+.dancing-script {
+    font-family: "Dancing Script", cursive !important; 
+    font-weight: 700;
+    font-style: normal;
+}
+.btn{
+    background-color: #F1C40F;
+}
+.card:hover{
+    width: 300px;
+}
